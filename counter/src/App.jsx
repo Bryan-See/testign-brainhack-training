@@ -13,6 +13,8 @@ function App() {
     //setCount(prev => prev + 1) //prevents batch updates (good)
   }
 
+
+  //testing new git
   function decreaseCount() {
     setCount(count-1)
   }
